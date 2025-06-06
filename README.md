@@ -3,6 +3,10 @@
 전략적 분석 프로젝트는 오토마타를 활용한 응용사례로 간단한 워게임에 대한 시뮬레이션 분석 환경입니다.
 해당 프로젝트 내에서는 공격(어뢰)와 방어(수상함과 기만기)를 수행하여 공격과 방어에 대한 전략을 개발합니다.
 
+## ./project/utils/scenario_manager.py
+
+해당 파일은 macOS와 Window 환경에 따라 다르게 세팅되어있습니다. 이 부분 참고하여 실행시에 주의 바랍니다.
+
 ## 설치 요구사항
 
 ```
@@ -107,5 +111,3 @@ Copyright (c) 2021-2024 Hanbat National University
 License: MIT. The full license text is available at:
 
 - https://github.com/eventsim/pyjevsim/blob/main/LICENSE
-# Strategical-Analysis-Project
-# Strategical-Analysis-Project
