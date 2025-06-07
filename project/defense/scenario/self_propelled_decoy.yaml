@@ -53,7 +53,6 @@ Torpedo:
       xy_speed: 5
       z_speed: 1
     DetectorObject:
-      detection_range: 35 
+      detection_range: 35
     TorpedoControlObject:
       range: 1
-    
