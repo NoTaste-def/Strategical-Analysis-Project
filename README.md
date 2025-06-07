@@ -11,7 +11,7 @@
 
 ```
 pip install -r requirements
-```ㅔㅛ
+```
 
 ## 프로그램 실행방법
 
@@ -60,7 +60,6 @@ pip install -r requirements
 - ManueverObject 파라미터
 - DetectorObject 파라미터
 - decoy_deployment_range 파라미터
-fdfdfdfdf
 
 ## pyjevsim
 
